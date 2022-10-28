@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import HeroImage from "../assets/HERO.jpg";
-import backgroundColor from "../utils/colors";
+import {backgroundColor} from "../utils/colors";
 import Squid from "../assets/SQUID.png";
 import Game from "../assets/GAME.png";
 
