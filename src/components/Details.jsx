@@ -15,7 +15,7 @@ export const Details = () => {
           <div className="border-top">
             <p>Watch Offline</p>
             <p>Available to download</p>
-          </div>
+          </div> 
           <div className="border-top">
             <p>Genres</p>
             <ul>
