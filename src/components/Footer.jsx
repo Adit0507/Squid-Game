@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { fontLightColor } from "../utils/colors";
 
 export const Footer = () => {
-  return <div>Footer</div>;
+  return <Container></Container>;
 };
 
 const Container = styled.footer`
