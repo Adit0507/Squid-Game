@@ -21,10 +21,10 @@ export const Home = () => {
             <a href="#info">Info</a>
           </li>
           <li>
-            <a href="#episodes">Episdoes</a>
+            <a href="#episodes">Episodes</a>
           </li>
           <li>
-            <a href="#videos">Videoes</a>
+            <a href="#videos">Videos</a>
           </li>
           <li>
             <a href="#details">Details</a>
